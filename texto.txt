@@ -1,10 +1,11 @@
+
 Sergio Lucas
-<<<<<<< HEAD
 Eric Tachdjian
-=======
 Pedro Munhoz
-<<<<<<< HEAD
->>>>>>> 3c0f1ccde587b48142d8b3227f5054cc6f1bf411
-=======
 Pedro Rezende
->>>>>>> e225d87a206af448b45af0597dffe30a22434857
+Sergio Lucas é gay
+Pedro Munhoz
+Gabriel Pascoli
+Pedro Rezende
+Vinicius Souza
+
