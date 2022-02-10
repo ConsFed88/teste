@@ -1,2 +1,6 @@
 Sergio Lucas
+<<<<<<< HEAD
 Eric Tachdjian
+=======
+Pedro Munhoz
+>>>>>>> 3c0f1ccde587b48142d8b3227f5054cc6f1bf411
